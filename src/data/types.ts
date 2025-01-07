@@ -1,3 +1,5 @@
+type DateTime = string;
+
 type NormalizedRating = 'AAA' | 'AA' | 'A' | 'BBB' | 'BB' | 'B' | 'NA/NR';
 
 export interface ScenarioMetadata {
